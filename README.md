@@ -1,4 +1,4 @@
-[![MasterHead]([https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))](https://delleshkarthik.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://delleshkarthik.io)
 
 <h1 align="center">Hi 👋, I'm Dellesh Karthik</h1>
 <h3 align="center">A passionate Learner</h3>
